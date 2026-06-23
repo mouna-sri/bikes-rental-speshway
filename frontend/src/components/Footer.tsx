@@ -122,7 +122,7 @@ export const Footer = memo(function Footer() {
         </div>
 
         <div className="border-t border-border/20 mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>© 2026 RideFlow. All rights reserved.</p>
+          <p>© 2025 RideFlow. All rights reserved.</p>
         </div>
       </div>
     </footer>
